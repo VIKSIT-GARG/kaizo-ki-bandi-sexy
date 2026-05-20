@@ -1,0 +1,89 @@
+{
+  "coupleNames": { "partner1": "Ruri", "partner2": "Sky" },
+  "startDate": "2025-05-20T00:00:00Z",
+  "timeline": [
+    {
+      "id": "milestone-1",
+      "date": "May 20, 2025",
+      "title": "First Train Ride to You",
+      "description": "The nervous excitement of watching the scenery change. Every station passed felt like a step closer to finally seeing your smile in person.",
+      "image": "/images/IMG_20250614_133236_610.webp",
+      "gif": "",
+      "audio": "",
+      "hiddenNote": "I practiced what I would say for hours, but the moment I saw you, I forgot everything."
+    },
+    {
+      "id": "milestone-2",
+      "date": "July 12, 2025",
+      "title": "Walking Under Sakura",
+      "description": "A quiet afternoon walk. The breeze scattering petals around us felt like a scene straight out of a shoujo manga.",
+      "image": "/images/IMG_20260521_001540_001.webp",
+      "gif": "",
+      "audio": "",
+      "hiddenNote": "Your rare smile... it really does bring good luck."
+    },
+    {
+      "id": "milestone-3",
+      "date": "October 31, 2025",
+      "title": "Autumn Evening Talks",
+      "description": "Sharing quiet thoughts as the sky turned a deep, melancholic blue. We didn't need to fill the silence to feel close.",
+      "image": "/images/IMG_20260521_001651_134.webp",
+      "gif": "",
+      "audio": "",
+      "hiddenNote": "I realized then that 'home' isn't a place, it's a person."
+    }
+  ],
+  "mapPins": [
+    { "id": "pin-delhi", "location": "Delhi", "title": "Where I Am", "description": "The bustling city lights, late night texts, and missing you.", "date": "Every single day" },
+    { "id": "pin-jammu", "location": "Jammu", "title": "Where You Are", "description": "The serene mountains, the cold breeze, and the reason I smile at my phone.", "date": "Every single night" },
+    { "id": "pin-first-call", "location": "Connection", "title": "First Late-Night Call", "description": "We talked until 4 AM. Neither of us wanted to hang up.", "date": "June 5, 2025" }
+  ],
+  "sharedBraincells": {
+    "title": "Certified Idiots in Love",
+    "subtitle": "Because every Kazehaya needs their Sawako.",
+    "jokes": [
+      "The time we both tried to confess but panicked and talked about the weather instead.",
+      "Sharing exactly one (1) braincell when deciding what to eat.",
+      "Accidentally wearing matching colors on FaceTime."
+    ],
+    "moments": [
+      { "label": "Kazehaya Confidence", "value": 20 },
+      { "label": "Sawako Overthinking", "value": 100 }
+    ]
+  },
+  "loveLetter": {
+    "greeting": "Hey Ruri \u2764\ufe0f",
+    "opening": "Oh wow 12 baj gaya? Humme 1 saal hogaya??? Heyyy ruri well I'm really speechless after all the ups and downs we are finally here countless sleepless nights and fights all those lovely text flirts and gaaliyan and break ups we are finally here 1 saal hogaye humme jaanu I can't imagine i always dreamed of this day ki humme ek sath 1 saal hojayenge and mujhe bhot khushi hori hai abhi ki humme ek sath 1 saal hogaye i can't even tell you how happy im right now and you reading this I wanna tell you, you were the bestest person I ever met after meeting you my whole life changed first time when we started dating hum bhot zada flirt karte the and bakchodi karte the it was so fun firr dheere dheere humari ladayi bhi hone lag gayi pata when you were going to your ex that's was the first time I cried after so many years and i felt ki meri duniya cheen raha hai koi but meri duniya mere paas wapas aagayi and imma tell you i was so fucking happy ki omg she is with me now parr fir mujhe darr lagne laga but fir tune mere liye countless chize kii mere birthday PE fir aur bhi saari chize it was really cuteee and firrr hum time spend kar rahe the movies games late night call sleeping together all of these were the best time with you that I spent, every single one of it was the best yaar i couldn't even imagined a day without and jab koi bhi din tere bina jaata tha I was dying to talk to you mein pagal hojata tha you complete me jaanu without you im nothing literally nothing all these past months were the bestest best i don't care bout the bad days we went through them and we are here now and we are together and humme 1 saal hogaye jaanu every single day was the best with you jaanu.",
+    "middle": "You are the prettiest, cutest, sweetest, most divine, mesmerizing, most beautiful, out of this world, kindest, hottest, sexiest, kuchu puchu, humpty dumpty, chuchu, milton ki bottle, ruru, jaanudi, baby, babe in thisss wholee multiverse jaanu I always loved your singing jaanu you were never a bad singer nor you were ugly nor you were rude nor you were bad nor you were the worst hamesha hamesha tuu mere din mein best hi Rahi hai jaanu and abhi ye toh 1 saal ho hua hai abhi toh 10 saal 20 saal abhi toh aur hai meri jaan and jaanu let me tell you after you came in my life you were never alone and had friends and aane waale saalon mein bhi I will be with you jaanu hamesha ill always be there with you on your ups and downs jaanu and hamesha i love you jaanu and I love you jaanu and I lovee youuu mein kasam se bhot zada pyaar karta hun tujhe and I loveeee youuu thee mostest most jaanudi i loveee youuu soooo soooo soooo muchhhh jaaanuuu srslyyy thiss 1 year was thee best with youuu every single day was the best with you jaanu",
+    "climax": "JAAANUUU I LOVEEE LOVEEE YOUUU SOOO SOOO MUCHHHH THANK YOUUU SOOO MUCHHH FOR BEING IN MY LIFEEE JAAANU I LOVEEE YOUUU THEE MOSTESTT MOSTT JAANUDIII I LOVEEE LOVEEE YOUUU SOOO MUCHH JAANUUU HAPPY ANNIVERSARY MY JAAN YOU I ADMIRE YOU ALOT AND YOU MADE ME ALIVE AGAIN THANK YOU SO MUCHH JAAANU I LOVEEE YOUUUU SOOOO MUCHHH JAAANUDIII MWAHHHH MWAHHHH MWAHHH I LOVEEEE YOUUUU BABYYYY",
+    "signature": "YOURS AND ONLY YOURS\nSKY / JORDAN / AARAV / AARU"
+  },
+  "reasons": [
+    { "id": 1, "title": "Your Gentle Gaze", "content": "The way you look at me makes the rest of the world disappear." },
+    { "id": 2, "title": "Silent Comfort", "content": "How we can sit in silence for hours and it feels like the loudest declaration of love." },
+    { "id": 3, "title": "Your Rare Smile", "content": "Seeing you smile is like catching a shooting star. It makes everything better." },
+    { "id": 4, "title": "Distance Defiant", "content": "How you make 600 kilometers feel like a few inches." },
+    { "id": 5, "title": "Handwritten Notes", "content": "The small, awkward, but purely sincere things you say." },
+    { "id": 6, "title": "Just You", "content": "Because out of everyone in the world, my heart chose you." }
+  ],
+  "gallery": [
+    { "id": "pic-1", "src": "/images/IMG_20250614_133236_610.webp", "caption": "my prettiest girl \u2764\ufe0f", "ratio": "portrait" },
+    { "id": "pic-2", "src": "/images/Snapchat-697566294.webp", "caption": "rawr.", "ratio": "portrait" },
+    { "id": "pic-3", "src": "/images/IMG_20260521_001540_001.webp", "caption": "late night memories.", "ratio": "portrait" },
+    { "id": "pic-4", "src": "/images/IMG_20260521_001550_965.webp", "caption": "you & me.", "ratio": "portrait" },
+    { "id": "pic-5", "src": "/images/IMG_20260521_001625_937.webp", "caption": "my jaanu.", "ratio": "portrait" },
+    { "id": "pic-6", "src": "/images/IMG_20260521_001651_134.webp", "caption": "always smiling.", "ratio": "portrait" },
+    { "id": "pic-7", "src": "/images/IMG_20251215_085904.webp", "caption": "winter vibes.", "ratio": "portrait" },
+    { "id": "pic-8", "src": "/images/Screenshot_2026-05-21-00-22-54-019_com.snapchat.android-edit.webp", "caption": "cutiee.", "ratio": "portrait" },
+    { "id": "pic-9", "src": "/images/IMG_20151011_105402.webp", "caption": "throwback.", "ratio": "portrait" }
+  ],
+  "playlist": [
+    {
+      "id": "track-1",
+      "title": "Untitled",
+      "artist": "Onlyhers",
+      "url": "/music/Onlyhers - Untitled.m4a",
+      "cover": "/images/IMG_20260521_001540_001.webp"
+    }
+  ]
+}
